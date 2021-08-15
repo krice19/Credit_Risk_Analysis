@@ -1,3 +1,16 @@
+# adding ignore files
+
+LoanStats_2019Q1.csv
+Images/adaboost.png
+Images/cc_undersamp.png
+Images/combo_samp.png
+Images/forest.png
+Images/random_oversamp.png
+Images/smote.png
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
